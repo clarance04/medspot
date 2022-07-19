@@ -1,2 +1,2 @@
-# medspot
+# Medspot
 Hospital oriented website
